@@ -71,7 +71,7 @@ const defaultData: SiteData = {
   company: {
     name: 'ORYZE',
     tagline: 'Empowering schools with intelligent technology.',
-    copyright: '© 2025 ORYZE Technologies. All rights reserved.',
+    copyright: '© 2026 ORYZE Technologies. All rights reserved.',
   },
   hero: {
     eyebrow: 'The Future of Education',
@@ -172,9 +172,9 @@ const defaultData: SiteData = {
     title1: 'Ready to',
     title2: 'Transform?',
     subtitle: 'Let\'s discuss how ORYZE can bring cutting-edge technology to your institution.',
-    location: '123 Innovation Drive\nSilicon Valley, CA',
-    email: 'hello@oryze.edu',
-    phone: '+1 (800) ORYZE-AI',
+    location: ' Near Vp College of Engineering,Baramati',
+    email: 'info.oryzetech108@gmail.com',
+    phone: '8446692426',
   },
   partnerSchools: ['MIT Academy', 'Stanford Prep', 'Berkeley STEM', 'Caltech Institute', 'Harvard Prep'],
 };
